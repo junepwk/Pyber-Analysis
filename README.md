@@ -22,6 +22,8 @@ The goal is to perform an analysis on a ride-share dataset from January to early
 - Software: Jupyter Notebook 6.3.0, Python 3.7.10
 - Library: Pandas, Matplotlib
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Results
 As expected, urban cities had a high concentration of drivers and total rides compared to suburban and rural cities. As shown below, in the time period of January to early May of 2019, rural cities had a total of 125 rides by 78 drivers with a total of $4,328 in fares.  The small data size for rural cities resulted in the highest average fare per ride and average fare per driver compared to the other two city types due to artifical inflation.  Additionally, it could also be caused by the typical rural settings with residential homes/buildings being farther apart and fewer in numbers, thus, resulting in longer driving distances and higher fare per ride. 
 
