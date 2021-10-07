@@ -17,8 +17,12 @@ Based on the multiple line plot below, urban cities experienced the highest spik
 
 ![pyber_fare_summary](https://github.com/junepwk/pyber-analysis/blob/main/analysis/pyber_fare_summary.png)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 #### Data for the sum of the fares for each week
 ![weekly_fares_type](https://github.com/junepwk/pyber-analysis/blob/main/Resources/weekly_fares_type.png)
 
 ## Summary
 Based on the summary data, urban cities had a total of 2,405 drivers and 1,625 total rides.  There seems to be slightly more supply than demand so I would suggest a thorough evaluation or further analysis on whether there needs to be a reduction of drivers in urban areas or maintain the number of drivers in case of a high influx of demand during holidays. Beside this observation from the data gathered, the overall analysis could provide deeper insights on any other disparities among the city types if we accounted for the population of each city and distances driven per ride.  This could further explain the high average fare rate in rural cities and in turn determine affordibility in these areas. Furthermore, it could be beneficial to consider major holidays and/or events that could have taken place during the high spikes shown in the multiple line plot.  For example, the potentional spike for suburban cities as time approaches May could be due to summer breaks for many students. 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
