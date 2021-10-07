@@ -1,6 +1,20 @@
 # PyBer with Matplotlib
 
-## Overview of the analysis
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#overview-of-project">Overview of Project</a>
+    </li>
+    <li>
+      <a href="#resources">Resources</a>
+    </li>
+    <li><a href="#results">Results</a></li>
+    <li><a href="#summary">Summary</a></li>
+  </ol>
+</details>
+
+## Overview of Project
 The goal is to perform an analysis on a ride-share dataset from January to early May of 2019 completed with visualized analysis for PyBer, a ride-sharing application company. By grouping the data based on city type (urban, suburban and rural), this analysis could provide the company's some insights for decision making, such as, improving access to ride-sharing services and determining affordability for underserved neighborhoods. 
 
 ## Resources
